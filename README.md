@@ -106,26 +106,27 @@ To run the test scenarios, need to have followings on your machine:
 ```
 
 - Import the project as Maven project in any IDE (Eclipse/IntelliJ)
-- To run complete suite via testng.xml
+
+- #### To run complete suite via testng.xml
   - right click on testng.xml
   - Run as -> TestNG suite
 
   ![testng.xml](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Run_Via_testng.xml%20File.png)
 
 
-- To run complete suite via maven
+- #### To run complete suite via maven
   - Right click on POM.xml file
   - Run as -> Maven test
 
   ![POM.xml](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Run_Via_pom.xml%20file.png)
 
-- To run via Run configuration
+- #### To run via Run configuration
   - Go to Run on Toolbar
   - Run configuration
   - Select workplace, and add goals as 'test'
   - Click Apply and Run
 
-  ![POM.xml](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Run_Via_Run%20Configurations.png)
+  ![Run Configurations](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Run_Via_Run%20Configurations.png)
 
 
 

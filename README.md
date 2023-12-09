@@ -14,6 +14,7 @@ For demo, I am using https://www.saucedemo.com/ website.
  - [Project Setup](#project-setup)
  - [Run Locally](#run-locally)
  - [Execution Report](#execution-report)
+ - [About Me](#about-me)
 
 
 ## Project Demonstates
@@ -135,8 +136,23 @@ To run the test scenarios, need to have followings on your machine:
 - Once the Execution is done, the report is available under Reports folder
 - If any test case fails, it will take the screen shot and attach it to the execution report.
 
-  Report folder
+  #### Report folder
+  
+  ![Report Folder](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Reports_Folder.png)
 
-  Execution Report
+  #### Execution Report
 
-  Failure Screenshot
+  ![Execution Report](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Failure_Execution_Report.png)
+
+  #### Failure Screenshot
+
+  ![Failure Screenshot](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Attached_Failure_Screenshot.png)
+
+## 🚀 About Me
+I'm a Software Automation Tester, having 11+ years of experience in this field.
+
+Please have a look on my Portfolio: [@swatinerkar](https://swatinerkar.wordpress.com/)
+
+My LinkedIn Profile: [@swatinerkar](https://www.linkedin.com/in/swatinerkar/)
+
+

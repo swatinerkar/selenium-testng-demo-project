@@ -136,21 +136,17 @@ To run the test scenarios, need to have followings on your machine:
 - Once the Execution is done, the report is available under Reports folder
 - If any test case fails, it will take the screen shot and attach it to the execution report.
 
-  Report folder
+  #### Report folder
   
   ![Report Folder](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Reports_Folder.png)
 
-  Execution Report
+  #### Execution Report
 
   ![Execution Report](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Failure_Execution_Report.png)
 
-  ![Success - Execution Report](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/ExecutionReport_09-12-2023%2021-24-59.html)
-
-  Failure Screenshot
+  #### Failure Screenshot
 
   ![Failure Screenshot](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Attached_Failure_Screenshot.png)
-
-  ![Failure - Execution Report](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/ExecutionReport_09-12-2023%2021-23-16.html)
 
 ## 🚀 About Me
 I'm a Software Automation Tester, having 11+ years of experience in this field.

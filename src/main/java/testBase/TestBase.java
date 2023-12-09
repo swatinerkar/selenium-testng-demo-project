@@ -5,6 +5,7 @@ import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.AfterClass;
@@ -42,6 +43,7 @@ public class TestBase {
 		String browser = propObj.getPropertyValueByKey("browser");
 		driver = switch (browser) {
 		case "chrome" -> new ChromeDriver();
+		case "edge" -> new EdgeDriver();
 		default -> throw new IllegalArgumentException("Unexpected value: " + browser);
 		};
 		LOG.info("WebDriver object is created for the browser : "+browser);

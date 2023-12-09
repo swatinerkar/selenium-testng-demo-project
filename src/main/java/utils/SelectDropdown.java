@@ -10,6 +10,8 @@ public class SelectDropdown {
 	Select select;
 
 	private static SelectDropdown selectCommonMethods;
+	
+	private SelectDropdown() {}
 
 	public static SelectDropdown getSelectClassObject() {
 		if (selectCommonMethods == null)

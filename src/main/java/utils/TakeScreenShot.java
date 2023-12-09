@@ -12,6 +12,8 @@ import testBase.TestBase;
 public class TakeScreenShot {
 	String destinationPath;
 	private static TakeScreenShot takeScreenShot;
+	
+	private TakeScreenShot() {}
 
 	public static TakeScreenShot getTakeScreenShotObj() {
 		if (takeScreenShot == null)

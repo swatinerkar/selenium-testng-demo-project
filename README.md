@@ -2,7 +2,7 @@
 # Selenium Automation Project
 
 Welcome to the Selenium Automation Demo Project! This project serves as hands-on demonstration of Selenium, an open-source automation testing framework widely used for web applications. Whether you're a beginner looking to explore the basics or an experienced tester aiming to enhance your Selenium skills, this project provides a practical guide to automation testing.
-For demo, I am using https://www.saucedemo.com/ website.
+##### Applcation under test: https://www.saucedemo.com/ website.
 
 
 

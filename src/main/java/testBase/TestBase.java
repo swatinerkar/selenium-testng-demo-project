@@ -29,7 +29,7 @@ import utils.PropertiesOperations;
 
 public class TestBase {
 	static Logger LOG = LoggerFactory.getLogger(TestBase.class);
-	public static WebDriver driver;
+	protected static WebDriver driver;
 	public PropertiesOperations propObj;
 	protected DateUtil dateUtil;
 

@@ -2,11 +2,11 @@
 # Selenium Automation Project
 
 Welcome to the Selenium Automation Demo Project! This project serves as hands-on demonstration of Selenium, an open-source automation testing framework widely used for web applications. Whether you're a beginner looking to explore the basics or an experienced tester aiming to enhance your Selenium skills, this project provides a practical guide to automation testing.
-##### Applcation under test: https://www.saucedemo.com/ website.
+##### Application under test: https://www.saucedemo.com/ website.
 
 
 
-## Run Locally
+## Index
  - [Project Demonstates](#project-demonstates)
  - [Tech Stack](#tech-stack) 
  - [Project Folder Structure](#project-folder-structure) 
@@ -150,10 +150,12 @@ To run the test scenarios, need to have followings on your machine:
   ![Failure Screenshot](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Attached_Failure_Screenshot.png)
 
 ## 🚀 About Me
-I'm a Software Automation Tester, having 11+ years of experience in this field.
+
+I'm a Software Automation Tester, having 11+ years of experience.
 
 Please have a look on my Portfolio: [@swatinerkar](https://swatinerkar.wordpress.com/)
 
 My LinkedIn Profile: [@swatinerkar](https://www.linkedin.com/in/swatinerkar/)
 
+If you would like to have some guidence, you can book any of my service: [@swatinerkar](https://topmate.io/swati_nerkar)
 
